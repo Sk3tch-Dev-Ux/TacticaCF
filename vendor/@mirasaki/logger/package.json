@@ -1,0 +1,17 @@
+{
+  "name": "@mirasaki/logger",
+  "version": "1.0.6",
+  "description": "[deprecated] This (tiny) package is deprecated and will be removed in the future, consider resolving it from a local vendor instead.",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "license": "~~ do whatever you want ~~",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "moment": "^2.29.3"
+  }
+}
